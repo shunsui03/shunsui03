@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @shunsui03
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @shunsui
+- 👀 I’m interested in playing sports and esports games
 - 🌱 I’m currently learning html,css,javascript ( or web dev in short ) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on few cloud and network engineers
+- 📫 How to reach me markrainerdionq@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: 
+- ⚡ Fun fact: bink bong
 
 <!---
 shunsui03/shunsui03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
